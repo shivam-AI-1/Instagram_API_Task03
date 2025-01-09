@@ -12,4 +12,5 @@ This project is ideal for understanding modern backend API design and developmen
 
 
 
-https://documenter.getpostman.com/view/39186323/2sAYQUpZgt
+Link for postman Documentation: https://documenter.getpostman.com/view/39186323/2sAYQUpZgt
+Link for Handwritten notes: https://drive.google.com/file/d/1RQA2gg0Ohc_0E1k5N1-12ObgXqw5mYsu/view?usp=drive_link
